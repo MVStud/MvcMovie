@@ -152,8 +152,12 @@ Successfully pushed to Git
 2024-06-06
 13:10
 Tested my project to veriy it still works (BUILD and RUN)
+BREAK :O
 
-12:34
+14:34
 Project works succesfully
 PUSHing to Git
+
+15:24
+I added to the movie database successfully
 
