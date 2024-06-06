@@ -86,6 +86,7 @@ Program successful. Database eddited and added 1 extra movie with details
 
 
 2024-5-30
+
 14:04
 Ran program from prvious session successfully
 
@@ -140,8 +141,19 @@ edited the Views/movies/create.cshtml successfully
 15:50
 edited and tested the rating Views/movies/edit.cshtml
 
-15:70
+15:54
 SUCCESSFULLY DONE!!
 
+16:03
+Successfully pushed to Git
 
+
+
+2024-06-06
+13:10
+Tested my project to veriy it still works (BUILD and RUN)
+
+12:34
+Project works succesfully
+PUSHing to Git
 
